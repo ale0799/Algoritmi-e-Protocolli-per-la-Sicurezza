@@ -45,15 +45,16 @@ Sono supportati:
 ## Esecuzione
 
 ### Accesso con una credenziale
-
+``` bash
 ./init.sh
 ./certificato_utente.sh
 ./certificato_autorità.sh
 ./richiesta_rilascio_credenziali.sh
 ./accesso_servizio.sh
-
+```
 
 ### Accesso con due credenziali
+``` bah
 ./init.sh
 ./certificato_utente.sh
 ./certificato_autorità.sh
@@ -61,6 +62,8 @@ Sono supportati:
 ./richiesta_rilascio_credenziali.sh
 ./richiesta_rilascio_credenziali2.sh
 ./accesso_servizio_2cred.sh
+```
+---
 
 ## Tecnologie utilizzate
 - Tecnologie utilizzate
