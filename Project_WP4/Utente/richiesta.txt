@@ -1,0 +1,2 @@
+Tipo_credenziale="Utente/tipo_credenziale.txt"
+Richiesta_credenziale="<5000"

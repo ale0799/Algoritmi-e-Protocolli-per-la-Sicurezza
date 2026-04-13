@@ -1,0 +1,2 @@
+Tipo_credenziale="Utente/tipo_credenziale2.txt"
+Richiesta_credenziale="Luogo di nascita Napoli"

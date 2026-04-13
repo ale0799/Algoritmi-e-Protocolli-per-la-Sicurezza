@@ -1,0 +1,3 @@
+Credenziale_completa2="Utente/tipo_credenziale2.txt;Utente/valore_credenziale2.txt;Utente/data_scadenza2.txt;"
+Root_firmata2="Utente/root_firmata2.sig" 
+Certificato_aut2="Aut2/Aut2_crt.pem" 
