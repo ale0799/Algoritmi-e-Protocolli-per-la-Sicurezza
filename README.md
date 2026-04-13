@@ -66,7 +66,6 @@ Sono supportati:
 ---
 
 ## Tecnologie utilizzate
-- Tecnologie utilizzate
 - Bash scripting
 - OpenSSL
 - Certificati digitali X.509
